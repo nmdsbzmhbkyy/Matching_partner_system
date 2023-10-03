@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06417bec-c46c-432a-bb49-ebd55c82edc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+  </component>
+  <component name="ProjectId" id="2VCdbhZXoDhMnDym9eYkc8zmYpR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/kaomao/usercenter/model/vo" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kaomao.usercenter.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kaomao.usercenter.utils" />
+      <recent name="com.kaomao.usercenter.common" />
+      <recent name="com.kaomao.usercenter.model.request" />
+      <recent name="com.kaomao.usercenter.model.enums" />
+      <recent name="com.kaomao.usercenter.model.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\学习\项目\user-center-backend-master\src\main\java\com\kaomao\usercenter\model\vo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserCenterApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCenterApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-center-backend-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaomao.usercenter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kaomao.usercenter" />
+      <option name="MAIN_CLASS_NAME" value="com.kaomao.usercenter.UserCenterApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCenterApplicationTests.testDigest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-center-backend-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaomao.usercenter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kaomao.usercenter" />
+      <option name="MAIN_CLASS_NAME" value="com.kaomao.usercenter.UserCenterApplicationTests" />
+      <option name="METHOD_NAME" value="testDigest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCenterApplicationTests.testResdission" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-center-backend-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaomao.usercenter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kaomao.usercenter" />
+      <option name="MAIN_CLASS_NAME" value="com.kaomao.usercenter.UserCenterApplicationTests" />
+      <option name="METHOD_NAME" value="testResdission" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-center-backend-master" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kaomao.usercenter.UserCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserCenterApplicationTests.testResdission" />
+        <item itemvalue="JUnit.UserCenterApplicationTests.testDigest" />
+        <item itemvalue="JUnit.UserCenterApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06417bec-c46c-432a-bb49-ebd55c82edc4" name="Default Changelist" comment="" />
+      <created>1694344069927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694344069927</updated>
+      <workItem from="1694344071123" duration="741000" />
+      <workItem from="1695027301020" duration="132000" />
+      <workItem from="1695372047882" duration="663000" />
+      <workItem from="1695372963244" duration="1011000" />
+      <workItem from="1695391158571" duration="4860000" />
+      <workItem from="1695457103375" duration="11580000" />
+      <workItem from="1695491860035" duration="12155000" />
+      <workItem from="1695528862559" duration="17753000" />
+      <workItem from="1695611046719" duration="19410000" />
+      <workItem from="1695716347488" duration="30750000" />
+      <workItem from="1695889136534" duration="2637000" />
+      <workItem from="1695986508925" duration="3878000" />
+      <workItem from="1696011652034" duration="5424000" />
+      <workItem from="1696022379762" duration="2009000" />
+      <workItem from="1696161783431" duration="3816000" />
+      <workItem from="1696219777129" duration="15884000" />
+      <workItem from="1696259072904" duration="897000" />
+      <workItem from="1696309613497" duration="20134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="203" key="#Inspections" timestamp="1695812724087">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="586" y="203" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1695812724087" />
+    <state x="438" y="210" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1696011734748">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="438" y="210" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1696011734748" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1696247462451">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1696247462451" />
+    <state x="519" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1696228849826">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="519" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1696228849826" />
+    <state x="727" y="389" width="485" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1696012152975">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="727" y="389" width="485" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1696012152975" />
+    <state width="576" height="466" key="DebuggerActiveHint" timestamp="1696023841980">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="576" height="466" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1696023841980" />
+    <state x="566" y="378" key="FileChooserDialogImpl" timestamp="1695457924235">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="566" y="378" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1695457924235" />
+    <state width="1877" height="190" key="GridCell.Tab.0.bottom" timestamp="1696349781903">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1696349781903" />
+    <state width="1877" height="190" key="GridCell.Tab.0.center" timestamp="1696349781903">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1696349781903" />
+    <state width="1877" height="190" key="GridCell.Tab.0.left" timestamp="1696349781902">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1696349781902" />
+    <state width="1877" height="190" key="GridCell.Tab.0.right" timestamp="1696349781903">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1696349781903" />
+    <state width="1877" height="190" key="GridCell.Tab.1.bottom" timestamp="1696349781903">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1696349781903" />
+    <state width="1877" height="190" key="GridCell.Tab.1.center" timestamp="1696349781903">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1696349781903" />
+    <state width="1877" height="190" key="GridCell.Tab.1.left" timestamp="1696349781903">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1696349781903" />
+    <state width="1877" height="190" key="GridCell.Tab.1.right" timestamp="1696349781903">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1696349781903" />
+    <state width="1877" height="190" key="GridCell.Tab.2.bottom" timestamp="1696349781904">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1696349781904" />
+    <state width="1877" height="190" key="GridCell.Tab.2.center" timestamp="1696349781904">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1696349781904" />
+    <state width="1877" height="190" key="GridCell.Tab.2.left" timestamp="1696349781904">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1696349781904" />
+    <state width="1877" height="190" key="GridCell.Tab.2.right" timestamp="1696349781904">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="190" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1696349781904" />
+    <state width="303" height="499" key="HiddenNamespacesPopup" timestamp="1696011748537">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="303" height="499" key="HiddenNamespacesPopup/0.0.1920.1050@0.0.1920.1050" timestamp="1696011748537" />
+    <state x="540" y="258" key="IDE.errors.dialog" timestamp="1695494144095">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="540" y="258" key="IDE.errors.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1695494144095" />
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1696259868373">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1696259868373" />
+    <state x="350" y="112" width="1119" height="853" key="SettingsEditor" timestamp="1696311142437">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="350" y="112" width="1119" height="853" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1696311142437" />
+    <state x="757" y="389" width="406" height="346" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1" timestamp="1695458739094">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="757" y="389" width="406" height="346" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1/0.0.1920.1050@0.0.1920.1050" timestamp="1695458739094" />
+    <state x="828" y="383" width="354" height="283" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1695457375448">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="828" y="383" width="354" height="283" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1050@0.0.1920.1050" timestamp="1695457375448" />
+    <state x="690" y="329" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1695458727527">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="329" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1695458727527" />
+    <state x="873" y="202" width="679" height="495" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1696322654323">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="873" y="202" width="679" height="495" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1696322654323" />
+    <state x="669" y="0" width="1267" height="1005" key="dock-window-1" timestamp="1695491257114">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="669" y="0" width="1267" height="1005" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1695491257114" />
+    <state x="736" y="279" key="refactoring.ChangeSignatureDialog" timestamp="1695812208333">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="736" y="279" key="refactoring.ChangeSignatureDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1695812208333" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1696322011011">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1696322011011" />
+    <state x="616" y="178" width="672" height="676" key="search.everywhere.popup" timestamp="1696327634896">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="178" width="672" height="676" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1696327634896" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kaomao/usercenter/job/TimingCache.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/AbstractCollection.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
